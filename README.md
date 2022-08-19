@@ -19,7 +19,7 @@ Thank you for your timing coming here and I would greatly appreciate if there ar
 ||Tools Used: Python, Logistic Regression, Random Forest, Multinomial Naive Bayes, Count & TF-IDF Vectorizer|
 |||
 |Project 4: **Analyzing West Nile Virus in Chicago**| Conducted a deep dive research on west nile virus stiuation in Chicago and performed cost benefit analysis to determine if the efforts should continue|
-||Tools Used: Python, Numpy, Pandas, Matplotlib, Seaborn, Random Forest Classifier, Adaptive Boost Classifier, Graident Boost Classifier, Stacking Classifer
+||Tools Used: Python, Numpy, Pandas, Matplotlib, Seaborn, Random Forest Classifier, Adaptive Boost Classifier, Gradient Boost Classifier, Stacking Classifer
 |||
 |Capstone: **Building Detection**| Created Object detection model that identifies Singapore landmarks and display bounding boxes on buildings through mobile camera. Project aims to reduce hassle in identifying building which improves on-foot navigations|
 ||Tools Used: Python, Scikit-learn, Tensorflow, Keras, CNN, Labelimg, OpenCV, Deep Learning 
