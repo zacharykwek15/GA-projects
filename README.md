@@ -25,7 +25,7 @@ Thank you for coming here and I would greatly appreciate if there are any room f
 ||Tools Used: Python, Scikit-learn, Tensorflow, Keras, CNN, Labelimg, OpenCV, Deep Learning 
 |||
 
-While I acknowledge that i'm still in the learning phrase but i'm highly motivated to learn and improve my skills in data science. I'm also highly adaptable and really hope i can be given an opportunity to learn, grow and contribute in the organisation. 
+I'm highly motivated to learn and improve my skills in data science. I'm also highly adaptable and really hope i can be given an opportunity to learn, grow and contribute in the organisation. 
 Have a great day ahead! 
 
 
