@@ -3,7 +3,7 @@
 
 Hello everyone! 
 
-My name is Kwek Zhi Hong and i'm an aspiring data analyst that is looking to perform a career switch. 
+My name is Kwek Zhi Hong and i'm data analyst that is looking to grow my skills in the field of Data Science. 
 I'm presently bridging the gap between theories and real world application by building up projects. 
 Thank you for coming here and I would greatly appreciate if there are any room for improvements, it can be made known to me for learning purposes. 
 
